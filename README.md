@@ -29,4 +29,5 @@ It is designed for educational purposes, demonstrating how the fundamental block
 
 The above diagram illustrates how the different modules of the processor are connected and how data flows between them during execution.
 
+![RTL View](rtl.png)
 ---
