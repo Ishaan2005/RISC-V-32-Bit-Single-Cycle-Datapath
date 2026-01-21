@@ -34,7 +34,7 @@ The above diagram illustrates how the different modules of the processor are con
 
 ---
 
-### To run the  Project use: 
+### To run the  Project use
 
 ```bash
 
