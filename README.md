@@ -6,6 +6,7 @@ It is designed for educational purposes, demonstrating how the fundamental block
 ---
 
 ## Features
+
 - Implements core RV32I instruction set (loads, stores, arithmetic, branches, etc.)
 - Single-cycle datapath (all operations complete in one cycle)
 - Includes essential modules:
@@ -30,4 +31,15 @@ It is designed for educational purposes, demonstrating how the fundamental block
 The above diagram illustrates how the different modules of the processor are connected and how data flows between them during execution.
 
 ![RTL View](rtl.png)
+
 ---
+
+### To run the  Project use: 
+
+```bash
+
+docker build -t riscv-project
+
+docker run -it riscv-project
+
+```
