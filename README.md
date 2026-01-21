@@ -38,6 +38,8 @@ The above diagram illustrates how the different modules of the processor are con
 
 ```bash
 
+git clone https://github.com/Ishaan2005/RISC-V-32-Bit-Single-Cycle-Processor.git
+
 docker build -t riscv-project
 
 docker run -it riscv-project
